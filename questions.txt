@@ -1,0 +1,8 @@
+
+1) Given a collection of numbers
+   Find a matching pair that equals to sum given
+
+   For eg: collection of numbers like - [ 4, 2, 5, 1, 7 ]
+           sum = 9
+
+   Find the pair that sums up 9
